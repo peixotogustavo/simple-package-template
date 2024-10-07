@@ -2,7 +2,8 @@
 
 Description. 
 The package package_name is used to:
-	- 
+	- Apredendo sobre Pacotes e Disrtibuicoes
+ 
 	-
 
 ## Installation
@@ -21,7 +22,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Gustavo Peixoto
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
